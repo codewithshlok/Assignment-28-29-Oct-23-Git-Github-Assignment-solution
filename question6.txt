@@ -1,0 +1,4 @@
+Q6. Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with GitHub pages.
+Answer - YouTube clone - https://cute-brigadeiros-03f48a.netlify.app/
+Slack home page clone - https://gentle-malabi-cf5a66.netlify.app/
+Gmail clones - Gmail -  https://codewithshlok.github.io/GmailClone/

@@ -1,0 +1,16 @@
+Q1. Explain what version control is and its importance in software development.
+
+Answer - Version control is a system that tracks changes to set a files over time. It allows developers to see who made changes and when , and to revert to previous versions of the code if needed. Version control is essential for software development because it allows teams to collaborate on the same project without stepping on each other's toes.
+
+Here are some of its importance in software development:-
+
+-Collaboration - makes it easy for multiple developersto work on the same project at the same time. Developers can create their own project branches of the code to work on new features or fix bugs and them merge their changes back into the main codebase once they are complete.
+
+-History- keeps the complete history of all changes to the code.This makes it easy to track down the source of the bug or revert to the previous version of the code if necessary.
+
+-Backup-serves as a backup for the code. If a developer accidentally deletes a files or makes a mistake, they can easily restore the file or revert to a preveious version of the code.
+
+-Auditing- it can be used to audit changes to the code . This can be helpful for tracking down security vulnerabilities or for complying with regulations.
+
+
+

@@ -1,0 +1,21 @@
+
+Q4.Briefly explain what GitHub is and how it collaboration and version control also names some alternatives to GitHub.
+
+Answer - github is a cloud -based hosting service that helps developers store and management their code , as well as track and control  changes their code over time. It also provides a number of features that make it easy for teams to collaboration on software projects.
+
+Github facilities collaboration and version control in the following ways:
+1. Version contorl :  github uses a Git , a distibuted version control system , to track changes  to their code . This allows developers to see who made what changes and when , and to revert to preveious version of the code if necessary.
+
+2. Branches and pull request : Github makes, it easy for developers to create and manage branches of their code. This allows developers to work on new features or fix bugs, without, affecting , the main codebase . Oncea developersis ready to merge their changes back into the main codebase, they create a pull request. This allows other developers to review the changes and provide feedback before they are merged.
+
+3. Issues and tasks : Github provieds a way for developersto track issues and tasks relatedto their code. This helps team to stay or organized and to prioritize their work.
+
+4. Code reviews : Github makes it easy for developersto review each other's code. This helps to improve the quality of the code and to identify potential bugs. 
+
+5. Discussions : Github provides a way for developers to discuss their code and ask the question . This helps to promote collaborationand knowledge sharing.
+
+Some of the platforms that provide the same fiunctionality similar to github can be - 
+* GitLab
+* BitBucket
+* Source Forge
+* LaunchPad
